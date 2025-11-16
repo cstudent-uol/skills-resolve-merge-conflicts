@@ -1,23 +1,23 @@
-# GitHub Teacher
+GitHub Teacher
 
-Charting the knowledge of the Internet, just like Galileo charted the stars.
+Mapping the world’s knowledge with the same curiosity Galileo used to map the stars.
 
-## Jobs
+Roles
 
-### GitHub Trainer
+GitHub Trainer
 
-Teach all things Git, give away all the stickers, ensure world peace.
+Teach everything Git and GitHub, spread knowledge freely, hand out stickers generously, and contribute to global harmony through education.
 
-### Supportocat
+Supportocat
 
-Provide world class support to customers on the GitHub platform
+Deliver outstanding support to GitHub users, helping them solve problems, learn new skills, and make the most of the platform.
 
-## Skills
+Skills
 
-### Education
+Education
 
-Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
+Designed, delivered, and maintained conference talks, online courses, and in-person workshops on Git, GitHub, open source, and developer workflows.
 
-### Leadership
+Leadership
 
-Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+Led multiple distributed teams in planning, building, and maintaining web applications and documentation, ensuring smooth collaboration and high-quality releases.
